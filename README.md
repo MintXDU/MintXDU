@@ -18,7 +18,7 @@ I am MintXDU and I graduated from Xidian University and am currently pursuing a 
 
 - 👨🏽‍💻 I’m currently working on [CS186-Rookiedb](https://github.com/MintXDU/CS186-Rookiedb);
 - 🌱 I’m currently learning Java and consolidate computer basic knowledge; 
-- 👯 I’m looking to collaborate on [Handle Path Oz](https://github.com/onimur/handle-path-oz) 🤝;
+- 👯 I’m looking to collaborate on [mintblog](https://github.com/MintXDU/mintblog) 🤝;
 - 🤔 I’m looking for help with Design Pattern 😭;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: sycheng2002@gmail.com;
