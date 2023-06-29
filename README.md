@@ -17,7 +17,7 @@ I am MintXDU and I graduated from Xidian University and am currently pursuing a 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 👨🏽‍💻 I’m currently working on [CS186-Rookiedb](https://github.com/MintXDU/CS186-Rookiedb);
-- 🌱 I’m currently learning Java and consolidate computer basic knowledge; 
+- 🌱 I’m currently learning Java and consolidating computer basic knowledge; 
 - 👯 I’m looking to collaborate on [mintblog](https://github.com/MintXDU/mintblog) 🤝;
 - 🤔 I’m looking for help with Design Pattern 😭;
 - 💬 Ask me about anything, I am happy to help;
