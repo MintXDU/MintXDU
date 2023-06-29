@@ -1,12 +1,12 @@
 <!-- Your title -->
-## Welcome to my Github page! I am MintXDU and I am currently finishing my Computer Engineering Master degree at the university of Granada!
+## Welcome to my Github page! I am MintXDU and I graduated from Xidian University and am currently pursuing a master's degree in computer technology at the same university.
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/onimur)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:murillo.comino@gmail.com)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/MintXDU)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sycheng2002@gmail.com)
 
 &nbsp;
 
@@ -60,22 +60,5 @@ Both apis are in trouble due to the number of requests, if you know any other to
 -->
 <p align="center">
   <img alt="HitCount" src="http://hits.dwyl.com/onimur/onimur.svg" />
-  <img alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=onimur.onimur" />
-  <!-- https://github.com/wesky93/views this is a clone of the hits -->
   <img alt="ViewCount" src="https://views.whatilearened.today/views/github/onimur/onimur.svg" />
 </p>
-
-<!--
-**MintXDU/MintXDU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
