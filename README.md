@@ -1,5 +1,6 @@
 <!-- Your title -->
-## Welcome to my Github page! I am MintXDU and I graduated from Xidian University and am currently pursuing a master's degree in computer technology at the same university.
+### Welcome to my Github page!
+I am MintXDU and I graduated from Xidian University and am currently pursuing a master's degree in computer technology at the same university.
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
